@@ -45,7 +45,6 @@ public class Windowhandle {
 				//driver.switchTo().window(newwindow2);
 			//}
 		//}
-		//driver.close();
 		//driver.switchTo().window(mainwindow);
 		//Set<String> multiwindow2 = driver.getWindowHandles();
 		//for (String newwindow3 : multiwindow2) {
